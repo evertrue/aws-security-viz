@@ -29,6 +29,7 @@
 .rvmrc
 
 opts.yml
+view.html
 
 .vagrant
 Gemfile.lock
