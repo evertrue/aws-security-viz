@@ -1,0 +1,7 @@
+--- 
+:format: dot
+:egress: false
+:exclude: 
+- stage-.*
+- .*-stage
+- default

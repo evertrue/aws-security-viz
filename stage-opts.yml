@@ -1,0 +1,8 @@
+--- 
+:format: dot
+:egress: false
+:exclude: 
+- prod-.*
+- .*-prod
+- default
+- prod-cassandra-backuptest
